@@ -12,3 +12,12 @@ This Space Left Intentionally Blank
 https://www.youtube.com/watch?v=9DPuGFPEDyA
 - Prototype
 https://www.figma.com/file/NhYQ6JmzgQDH9YhljvPPIR/DECO-3500-Seize-Sound?node-id=0%3A1
+
+# Yufan Chen
+# Project Name - Blind accessibility
+# Overview
+- There are three folder in the Yufan Chen folder, containing all the document.
+- Yufan's wiki page have more detailed information for design process
+- The prototype only interaction through click and do not need to register, but while using the prototype, image you only can do three operations: up, down and confirm to simulate blind people using voiceover mode.
+# View Prototype First
+https://xd.adobe.com/view/b98b162c-660a-4764-927e-9260a803441b-ecd8/
