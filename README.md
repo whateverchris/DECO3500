@@ -4,4 +4,6 @@ This Space Left Intentionally Blank
 # Yan Jiang
 # Project Name - Seize Sound
 # Overview
-Seize Sound is an augmented reality platform that allows users to create and interact with virtual marks based on captured sound, which appear as if they are in the user's real world location
+- Seize Sound is an augmented reality platform that allows users to create and interact with virtual marks based on captured sound, which appear as if they are in the user's real world location
+- The Wiki page will include a series of completed design process from finding a design opportunity to come out a solution based on user testing.
+- Hope to demonstrate the entire user interaction process through the whole fidelity model which giving users an authentic experience.
