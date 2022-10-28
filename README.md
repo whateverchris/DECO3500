@@ -32,6 +32,12 @@ https://xd.adobe.com/view/b98b162c-660a-4764-927e-9260a803441b-ecd8/
 # Jiaao Yu
 # Project Name - SmartCane
 # Overview
+The daily life of blind and visual impaired groups is complex even with the current accessibility facilities. It is still hard for the blind and visually impaired groups to walk and navigate without companies.
+Hence, according to the current situation of the blind and visually impaired groups, the concept is aimed to improve how blind and visually impaired groups access; more specifically, aims to provide a more efficient and effective navigation system for the group.
+More details can be found in the wiki page https://github.com/whateverchris/DECO3500/wiki/Jiaao's-wiki-page 
 
-# prototype
+# Prototype
+Interfaces:
 https://xd.adobe.com/view/554574ac-23c8-4e67-8eb5-848f5fd60178-0016/
+Sensor prototype:
+https://github.com/whateverchris/DECO3500/blob/main/Jiaao%20YU/sensor%20prototype.MP4 
