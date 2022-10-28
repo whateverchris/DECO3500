@@ -26,3 +26,10 @@ https://www.figma.com/file/NhYQ6JmzgQDH9YhljvPPIR/DECO-3500-Seize-Sound?node-id=
 - The prototype only interaction through click and do not need to register, but while using the prototype, image you only can do three operations: up, down and confirm to simulate blind people using voiceover mode.
 # View Prototype First
 https://xd.adobe.com/view/b98b162c-660a-4764-927e-9260a803441b-ecd8/
+
+# Jiaao Yu
+# Project Name - SmartCane
+# Overview
+
+# prototype
+https://xd.adobe.com/view/554574ac-23c8-4e67-8eb5-848f5fd60178-0016/
